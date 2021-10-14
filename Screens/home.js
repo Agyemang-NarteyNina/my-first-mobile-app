@@ -8,11 +8,11 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 export default function HomeScreen() {
 
     const bikes = [
-        { id: 1, price: 1234, img: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }, 
-        { id: 2, price: 1234, img: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }, 
-        { id: 3, price: 1234, img: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }, 
-        { id: 4, price: 1234, img: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }, 
-        { id: 5, price: 1234, img: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }
+        { id: 1, price: 1234, img: 'https://m.media-amazon.com/images/I/81wGn2TQJeL._SX425_.jpg' }, 
+        { id: 2, price: 1234, img: 'https://m.media-amazon.com/images/I/81wGn2TQJeL._SX425_.jpg' }, 
+        { id: 3, price: 1234, img: 'https://m.media-amazon.com/images/I/81wGn2TQJeL._SX425_.jpg' }, 
+        { id: 4, price: 1234, img: 'https://m.media-amazon.com/images/I/81wGn2TQJeL._SX425_.jpg' }, 
+        { id: 5, price: 1234, img: 'https://m.media-amazon.com/images/I/81wGn2TQJeL._SX425_.jpg' }
     ];
 
 
@@ -95,7 +95,7 @@ export default function HomeScreen() {
                                     alignItems: 'center',
                                 }}>
                                 <Image
-                                    source={{ uri: "https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640" }}
+                                    source={{ uri: "https://m.media-amazon.com/images/I/81wGn2TQJeL._SX425_.jpg" }}
                                     style={{ flex: 1, resizeMode: 'contain' }}
                                 />
                             </View>
