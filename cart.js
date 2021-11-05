@@ -11,7 +11,7 @@ export default function CartScreen() {
             <View style={{ paddingTop: 20, display: 'flex', flexDirection: 'row' }}>
                 <View style={{ borderRadius: 20 }}>
                     <Image
-                        source={{ uri: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }}
+                        source={{ uri: 'https://m.media-amazon.com/images/I/81wGn2TQJeL._SX425_.jpg' }}
                         style={{ height: 100, width: 100, borderRadius: 20 }}
                     />
                 </View>
@@ -61,13 +61,13 @@ export default function CartScreen() {
             <View style={{ paddingTop: 20, display: 'flex', flexDirection: 'row' }}>
                 <View style={{ borderRadius: 20 }}>
                     <Image
-                        source={{ uri: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }}
+                        source={{ uri: 'https://m.media-amazon.com/images/I/81wGn2TQJeL._SX425_.jpg' }}
                         style={{ height: 100, width: 100, borderRadius: 20 }}
                     />
                 </View>
 
                 <View style={{ marginLeft: 10, marginTop: 5, marginRight: 20 }}>
-                    <Text style={{ paddingBottom: 10, fontSize: 20, fontWeight: '900' }}>Brompton Bike</Text>
+                    <Text style={{ paddingBottom: 10, fontSize: 20 }}>Brompton Bike</Text>
                     <Text style={{ paddingBottom: 10, color: 'grey' }}>Road Bike</Text>
                     <Text>
                         <Text style={{ color: 'orange' }}>$</Text>
@@ -111,7 +111,7 @@ export default function CartScreen() {
             <View style={{ paddingTop: 20, display: 'flex', flexDirection: 'row' }}>
                 <View style={{ borderRadius: 20 }}>
                     <Image
-                        source={{ uri: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }}
+                        source={{ uri: 'https://m.media-amazon.com/images/I/81wGn2TQJeL._SX425_.jpg' }}
                         style={{ height: 100, width: 100, borderRadius: 20 }}
                     />
                 </View>
